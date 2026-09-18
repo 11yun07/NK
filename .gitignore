@@ -1,0 +1,16 @@
+*.vscode
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.ilk
+*.pdb
+*.obj
+*.o
+*.lib
